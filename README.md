@@ -11,4 +11,7 @@ The Goal of this tech test is to test your knowledge with Ruby on Rails. This te
 - The messages should be marked as read when appropriate.
 
 ## Bonus
-- Implement some tests using Rspec to make sure your app is robust
+- Implement some tests using Rspec to make sure your app is robust.
+
+## Submission
+- Send your app repository to `team@krowl.io` with the necessary instructions to run the app correctly.
